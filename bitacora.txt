@@ -1,0 +1,15 @@
+###Sección 3: Introducción a JavaScript Moderno
+
+
+##Clase 15: Objetos Literales
+A los "..." se le conoce como operador spread, a partir de Javascript ES6 se puede usar
+
+##Clase 23: Fetch Api
+Se puede anidar "then" en una petición (FetchApi)
+
+##Clase 24: Async Await
+Lo que regrese una "promesa" debe tener el await por delante
+
+
+
+
